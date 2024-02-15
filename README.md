@@ -3,7 +3,7 @@
 Hi i'm Mathias, a passionate developer from France 👋 <br>
 I touch everything about programming 💻 <br>
 But my main sides are web dev 🌐 and game dev 🎮 <br>
-Here's my Git Hub profile you can see starts that I put and my repo's 🗺️ 
+Here's my Git Hub profile you can see my starred repo's ans also my projects 🗺️ 
 
 ### Contact 🗣️
 
