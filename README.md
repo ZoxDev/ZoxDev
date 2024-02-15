@@ -1,16 +1,16 @@
 ### About me 👨
 
-Hi i'm Mathias, a passionate developer from France 👋
-I touch everything about programming 💻
-But my main sides are web dev 🌐 and game dev 🎮
-Here's my Git Hub profile you can see starts that I put and my repo's 🗺️
+Hi i'm Mathias, a passionate developer from France 👋 <br>
+I touch everything about programming 💻 <br>
+But my main sides are web dev 🌐 and game dev 🎮 <br>
+Here's my Git Hub profile you can see starts that I put and my repo's 🗺️ 
 
 ### Contact 🗣️
 
-You can contact me on twitter or linkeDin if you want to work with me 😊
-Or ask me anything for anything it will be a pleasure to answer your questions ❓
+You can contact me on twitter or linkeDin if you want to work with me 😊 <br> 
+Or ask me anything for anything it will be a pleasure to answer your questions ❓ <br>
 
-[X/Twitter 🐦](https://twitter.com/ZoxxxDev)
+[X/Twitter 🐦](https://twitter.com/ZoxxxDev) <br>
 [LinkeDin 🔗](https://www.linkedin.com/in/mathias-barczewski-4bb8ba238/)
 
 
