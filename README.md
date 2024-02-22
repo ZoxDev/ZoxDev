@@ -11,7 +11,7 @@ You can contact me on twitter or linkeDin if you want to work with me 😊 <br>
 Or ask me anything for anything it will be a pleasure to answer your questions ❓ <br>
 
 [X/Twitter 🐦](https://twitter.com/ZoxxxDev) <br>
-[LinkeDin 🔗](https://www.linkedin.com/in/mathias-barczewski-4bb8ba238/)
+[LinkeDin 🔗](https://www.linkedin.com/in/mathiasbarczewski)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoxdev)](https://github.com/anuraghazra/github-readme-stats)
